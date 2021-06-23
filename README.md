@@ -14,3 +14,13 @@ netlify -v
 
 - To execute netlify Hello world
 'http://localhost:8888/.netlify/functions/hello-world'
+
+- Login to Netlify
+ntl login
+
+- new site
+ntl init
+
+- create git personal token with relevant access
+
+- https://xenodochial-noyce-4997d2.netlify.app/.netlify/functions/hello-world
