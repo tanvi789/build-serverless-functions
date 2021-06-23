@@ -24,3 +24,6 @@ ntl init
 - create git personal token with relevant access
 
 - https://xenodochial-noyce-4997d2.netlify.app/.netlify/functions/hello-world
+
+- import Envars
+ntl env:import .env
